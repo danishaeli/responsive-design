@@ -12,7 +12,7 @@
 }
 
 
-@media (min-width: 600px) {
+@media (min-width: 400px) {
     .images { grid-template-columns: 1fr 1fr; }
 }
 
