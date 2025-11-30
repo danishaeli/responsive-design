@@ -28,6 +28,6 @@ padding:15px;
 }
 
 .hover:hover{
-    backgeround: darkgreen;
+    backgeround: dark-green;
     transform: scale (1.1);
 }
